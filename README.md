@@ -1,4 +1,4 @@
-# astralish
+# Astralis Host
 Buenos días, esto es Astralis Host
 Un host de media calidad ofrecido para servidores pequeños. ¡Es gratuito!
 # ¿Cómo acceder?
